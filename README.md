@@ -1,4 +1,12 @@
 
+Canteen Management System - 
+we have build a robust canteen app for our college Canteen.
+The app has functions of 
+1. Login/Signup to the student or Management Account
+2. Add items to the Cart
+3. Pay the bill
+4. Pick your order offline in the canteen
+5. Signout from your Account 
 
 
     python get-pip.py
